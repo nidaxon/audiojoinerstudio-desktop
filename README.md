@@ -1,6 +1,15 @@
+<p align="center">
+  <img src="assets/icon.png" alt="AudioJoiner Studio" width="200">
+</p>
+
 # AudioJoiner Studio — Native PyQt6 & FFmpeg Soxr Desktop Suite
 
 A lightweight, modern cross-platform GUI program (Windows, Linux, macOS) to join multiple audio files into a single continuous music compilation track with studio-grade fidelity.
+
+> **Screenshots:** 
+<p align="center">
+  <img src="assets/screenshot_windows10_light.jpg" alt="Main UI (Windows 10 Light Mode)"> <img src="assets/screenshot_windows10_dark.jpg" alt="Main UI (Windows 10 Dark Mode)">
+</p>
 
 ## Key Features
 - **Native PyQt6 Desktop GUI**: Ultra-responsive native desktop experience with dark and light mode stylesheets.
