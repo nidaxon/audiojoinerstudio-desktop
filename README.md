@@ -8,7 +8,7 @@ A lightweight, modern cross-platform GUI program (Windows, Linux, macOS) to join
 
 > **Screenshots:** 
 <p align="center">
-  <img src="assets/screenshot_windows10_light.jpg" alt="Main UI (Windows 10 Light Mode)"> <img src="assets/screenshot_windows10_dark.jpg" alt="Main UI (Windows 10 Dark Mode)">
+  <img src="assets/screenshot_windows10_light.jpg" alt="Main UI (Windows 10 Light Mode)" width="400"> <img src="assets/screenshot_windows10_dark.jpg" alt="Main UI (Windows 10 Dark Mode)" width="400">
 </p>
 
 ## Key Features
